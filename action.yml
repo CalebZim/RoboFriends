@@ -1,0 +1,8 @@
+name: 'Caleb Zimmerman'
+description: 'Fun app that you can search for robots'
+inputs:
+  myInput:              # change this
+    description: 'Fun app that you can search for robots'
+runs:
+  using: 'node12'
+  main: 'App.js'
